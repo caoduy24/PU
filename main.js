@@ -419,4 +419,4 @@ var audio = new Audio("./birthday.mp3");
       Run();
 }
 draw();
-play
+play();
